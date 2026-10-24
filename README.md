@@ -222,7 +222,6 @@ Developed as a collaborative student project focused on cybersecurity, machine l
 
 **Project:** FraudShield  
 **Domain:** Cybersecurity and Financial Fraud Detection  
-**Project Type:** Academic / Hackathon Prototype
 
 ## 📜 Disclaimer
 
@@ -230,7 +229,7 @@ FraudShield is provided for educational and research purposes. Its predictions m
 
 ## 📚 Acknowledgements
 
-- [Grega Vrbancic's Phishing Dataset](https://github.com/GregaVrbancic/Phishing-Dataset)
+- [UCI repository 327](https://archive.ics.uci.edu/dataset/327/phishing+websites)
 - [Scikit-learn](https://scikit-learn.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [Google Colab](https://colab.research.google.com/)
